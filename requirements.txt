@@ -1,0 +1,12 @@
+ibm_db_sa
+SQLAlchemy
+pandas
+
+#ibm_db
+#ibm_dbi
+#pyodbc
+#numpy
+#scikit-learn
+#flask
+#flask_restful
+#scipy
